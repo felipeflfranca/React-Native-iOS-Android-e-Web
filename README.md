@@ -1,15 +1,14 @@
-# react-native-web-test
-A simple test application - React native - IOS, Android and WEB
+# A simple test application - React native - IOS, Android and WEB
 
 $ cd myApp
 
 ## Web
 $ yarn web
 
-## IOS (simulator)
+## IOS
 $ yarn ios
 
-## Android (connected device)
+## Android
 $ yarn android
 
 - To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
