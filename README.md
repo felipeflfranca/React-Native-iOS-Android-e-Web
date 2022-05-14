@@ -22,17 +22,11 @@ myApp
 ### Web
 ```yarn web```
 
-<img width="870" alt="Captura de Tela 2022-05-14 às 01 23 23" src="https://user-images.githubusercontent.com/34171021/168410562-bf27ff8a-ea72-4cf4-888d-17d214d879ed.png">
-
 ### IOS
 ```yarn ios```
 
-<img width="373" alt="Captura de Tela 2022-05-14 às 01 18 19" src="https://user-images.githubusercontent.com/34171021/168410475-e62660b8-7a87-4e79-9b21-352f28018183.png">
-
 ### Android
 ```yarn android```
-
-<img width="361" alt="Captura de Tela 2022-05-14 às 01 18 55" src="https://user-images.githubusercontent.com/34171021/168410479-715b8b40-485e-44c5-9435-3d226dedec9b.png">
 
 ## Resources
 
