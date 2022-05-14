@@ -1,4 +1,4 @@
-## A simple test application - React native - iOS, Android and Web
+## A simple test application - React Native - iOS, Android and Web
 Um simples aplicativo de teste - React Native - iOS, Android e Web
 
 ### Setting up the development environment
