@@ -1,10 +1,8 @@
 # react-native-web-test
 A simple test application - React native - IOS, Android and WEB
 
-## cd into your <project-directory>
 $ cd myApp
 
-## Run Web/Ios/Android development
 ## Web
 $ yarn web
 
