@@ -24,7 +24,6 @@ $ npm run android
 
 ## Folder structure
 
-```
 myApp
 ├── android (When opening with Android studio, open this folder)
 │   └── android project files
@@ -36,7 +35,6 @@ myApp
 │   └── manifest.json
 └── src
     └── project code
-```
 
 ## Resources
 
