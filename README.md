@@ -1,4 +1,4 @@
-## A simple test application - React native - IOS, Android and WEB
+## A simple test application - React native - iOS, Android and WEB
 
 ### Setting up the development environment
 
@@ -20,11 +20,14 @@ myApp
     └── project code
 ```
 
-#### Web
-```yarn web```
-
 #### iOS
 ```yarn ios```
+
+#### Android
+```yarn android```
+
+#### Web
+```yarn web```
 
 #### Android
 ```yarn android```
