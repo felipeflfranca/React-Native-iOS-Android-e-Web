@@ -2,7 +2,7 @@
 
 ### Setting up the development environment
 
-To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
+To work with IOS and Android - Install Xcode and Android studio and follow the [react native instructions](https://reactnative.dev/docs/environment-setup)
 
 #### Folder structure
    
