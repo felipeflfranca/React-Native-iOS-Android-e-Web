@@ -1,21 +1,19 @@
 # A simple test application - React native - IOS, Android and WEB
 
-$ cd myApp
+### Web
+```yarn web```
 
-## Web
-$ yarn web
+### IOS
+```yarn ios```
 
-## IOS
-$ yarn ios
+### Android
+```yarn android```
 
-## Android
-$ yarn android
+To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
 
-- To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
-    
+## Folder structure
+   
  ```
-Folder structure
-
 myApp
 ├── android (When opening with Android studio, open this folder)
 │   └── android project files
