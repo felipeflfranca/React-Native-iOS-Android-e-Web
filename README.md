@@ -18,6 +18,7 @@ myApp
     └── project code
 ```
 
+---
 
 ### Web
 ```yarn web```
@@ -27,6 +28,8 @@ myApp
 
 ### Android
 ```yarn android```
+
+---
 
 ## Resources
 
