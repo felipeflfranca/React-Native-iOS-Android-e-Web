@@ -17,12 +17,7 @@ $ npm run android
 - To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
     
  ```
-
-<p align="center" >
-<img width="1000"  src="https://raw.githubusercontent.com/orYoffe/create-react-native-web-app/master/cli_preview.png">
-</p>
-
-## Folder structure
+Folder structure
 
 myApp
 ├── android (When opening with Android studio, open this folder)
