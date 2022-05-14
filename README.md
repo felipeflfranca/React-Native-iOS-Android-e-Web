@@ -23,7 +23,7 @@ myApp
 ### Web
 ```yarn web```
 
-### IOS
+### iOS
 ```yarn ios```
 
 ### Android
