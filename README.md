@@ -1,10 +1,10 @@
-# A simple test application - React native - IOS, Android and WEB
+## A simple test application - React native - IOS, Android and WEB
 
-## Setting up the development environment
+### Setting up the development environment
 
 To work with IOS and Android - Install Xcode and Android studio and follow the react native instructions [under the "Building Projects with Native Code" tab](https://reactnative.dev/docs/environment-setup)
 
-## Folder structure
+#### Folder structure
    
  ```
 myApp
@@ -20,20 +20,18 @@ myApp
     └── project code
 ```
 
----
-
-### Web
+#### Web
 ```yarn web```
 
-### iOS
+#### iOS
 ```yarn ios```
 
-### Android
+#### Android
 ```yarn android```
 
 ---
 
-## Resources
+### Resources
 
 - [React Native for Web (react-native-web)](https://github.com/necolas/react-native-web)
 - [React](https://reactjs.org/)
