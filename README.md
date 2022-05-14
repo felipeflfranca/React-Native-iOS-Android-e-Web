@@ -3,7 +3,7 @@
 ### Web
 ```yarn web```
 
-<img width="1439" alt="Captura de Tela 2022-05-14 às 01 18 02" src="https://user-images.githubusercontent.com/34171021/168410465-ea622497-0851-4a4e-a817-d149fa73fbf9.png">
+<img width="870" alt="Captura de Tela 2022-05-14 às 01 23 23" src="https://user-images.githubusercontent.com/34171021/168410562-bf27ff8a-ea72-4cf4-888d-17d214d879ed.png">
 
 ### IOS
 ```yarn ios```
