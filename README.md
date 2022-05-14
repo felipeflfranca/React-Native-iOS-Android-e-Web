@@ -8,7 +8,7 @@ To work with IOS and Android - Install Xcode and Android studio and follow the [
 #### Folder structure
    
  ```
-myApp
+react-native-web-test
 ├── android (When opening with Android studio, open this folder)
 │   └── android project files
 ├── ios (When opening with Xcode, open this folder)
