@@ -29,9 +29,6 @@ myApp
 #### Web
 ```yarn web```
 
-#### Android
-```yarn android```
-
 ---
 
 ### Resources
