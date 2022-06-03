@@ -22,9 +22,9 @@
   },
   "exclude": [
     "node_modules",
-    "babel.config.js",
-    "metro.config.js",
-    "jest.config.js"
+    "babel.config.ts",
+    "metro.config.ts",
+    "jest.config.ts"
   ],
   "include": [
     "src"
